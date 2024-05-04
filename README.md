@@ -14,9 +14,8 @@
 
 ## 🏆 GitHub Trophies
 <div style="display: flex; justify-content:center">
-  
+![](https://github-profile-trophy.vercel.app/?username=paolochmprojects&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 </div>
-![](https://github-profile-trophy.vercel.app/?username=paolochmprojects&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
